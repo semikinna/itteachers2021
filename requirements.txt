@@ -1,1 +1,1 @@
-byTelegrambotAPI
+pyTelegrambotAPI
